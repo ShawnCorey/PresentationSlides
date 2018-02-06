@@ -1,1 +1,1 @@
-- BSides Seattle (3 Feb 2018 w/ Andrew Watts) [Slides](https://github.com/ShawnCorey/PresentationSlides/raw/master/The%20S%20in%20IoT%20is%20for%20Security.pdf)
+- BSides Seattle 2018 - The S in IoT is for Security (3 Feb 2018 w/ Andrew Watts) [Slides](https://github.com/ShawnCorey/PresentationSlides/raw/master/The%20S%20in%20IoT%20is%20for%20Security.pdf)
