@@ -1,5 +1,1 @@
-## Presenations slides
-
-### All of the public slides for the talks I've given:
-
 - BSides Seattle (3 Feb 2018 w/ Andrew Watts) [Slides](https://github.com/ShawnCorey/PresentationSlides/raw/master/The%20S%20in%20IoT%20is%20for%20Security.pdf)
